@@ -6,7 +6,7 @@ This project focuses on **minimal aesthetics, smooth layout, and user-friendly d
 ---
 
 ## 📸 Preview
-![](images/Preview.png)
+![](./images/Preview.png)
 > Modern chair product page featuring gradient background, product image, pricing, color selection, and add-to-cart section.
 
 ---
