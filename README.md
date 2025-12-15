@@ -46,10 +46,9 @@ Modern-Chair/
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/your-username/modern-chair-ui.git
-
+   git clone https://github.com/anujxplay/Cart_Page.git
 2. Navigate to the project folder:
-   cd modern-chair-ui
+   cd Cart_Page
 
 3. Open index.html in your browser.
 
